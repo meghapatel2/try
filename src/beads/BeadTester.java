@@ -15,10 +15,10 @@ public class BeadTester {
     {
         Beads b1=new Beads();
         b1.setColor("White");
-        System.out.println(b1.getColor());
+        //System.out.println(b1.getColor());
       
           Beads b2=new Beads("black");
-        System.out.println(b2.getColor());
+        System.out.println(b1.getColor()+ " "+b2.getColor());
           
     }
 }
