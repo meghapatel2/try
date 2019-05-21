@@ -14,7 +14,7 @@ public class Beads {
 
     public String color;
     public char letter;
-    public int val;
+   // public int val;
         
     /**
      * @param args the command line arguments
